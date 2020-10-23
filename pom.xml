@@ -29,7 +29,6 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            
             <plugin>
 			  <artifactId>jib-maven-plugin</artifactId>
 			  <groupId>com.google.cloud.tools</groupId>
