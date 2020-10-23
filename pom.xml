@@ -34,7 +34,7 @@
 			  <groupId>com.google.cloud.tools</groupId>
 			  <version>${jib-maven-plugin.version}</version>
 			  <configuration>
-			     <from>
+			     <from>      
 			         <image>mcr.microsoft.com/java/jdk:8-zulu-alpine</image>
 			     </from>
 			     <to>
